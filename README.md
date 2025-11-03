@@ -1,1 +1,54 @@
-# AtliQ-Hospitality-Analysis
+# AtliQ Hospitality Analysis 
+
+As part of the codebasics september month resume challenge, I have worked on this analysis project.
+
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWNhZDQ3OTYtMTAxNC00YjI1LWEzZjQtMjQ2MjZjNGU0ZGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ff554dd48f8d4ac7f77a)
+
+
+## Problem statement
+
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+
+Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+
+### Task List
+
+You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+
+- Create the metrics according to the metric list.
+- Create a dashboard according to the mock-up provided by stakeholders.
+- Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+
+## Performance Analysis View
+
+<p align="center">
+    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/529464da6f4fd85c867327a1ae2ce245db48491a/Resources/Performance%20overview.png' width="600">
+</p>
+
+## Revenue Analysis View
+
+<p align="center">
+    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/249cdbd8f4a01f6c63e01c56c325b093429bfba4/Resources/Revenue%20overview.png' width="600">
+</p>
+
+
+## Booking Analysis View
+
+<p align="center">
+    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/59a3ed8441898ca82f7778b73fa53b7b277cf4f3/Resources/Booking%20overview.png' width="600">
+</p>
+
+
+
+## Some Important insights from the Dashboard
+
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- AtliQ Bay has the highest occupancy of 66%
+- Week 24 recorded the highest revenue among all, which is 139.6 Million
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- AtliQ lost around 298 Million in cancellation
+- Elite type rooms has the most booking and as well higher cancellation rate
