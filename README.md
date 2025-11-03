@@ -6,6 +6,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWNhZDQ3OTYtMTAxNC00YjI1LWEzZjQtMjQ2MjZjNGU0ZGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ff554dd48f8d4ac7f77a)
 
+[Linkedin Post](https://tinyurl.com/5acayps3)
 
 ## Problem statement
 
@@ -24,22 +25,16 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Performance Analysis View
 
-<p align="center">
-    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/529464da6f4fd85c867327a1ae2ce245db48491a/Resources/Performance%20overview.png' width="600">
-</p>
+![Performance Overview Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
 
 ## Revenue Analysis View
 
-<p align="center">
-    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/249cdbd8f4a01f6c63e01c56c325b093429bfba4/Resources/Revenue%20overview.png' width="600">
-</p>
+![Revenue Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
 
 
 ## Booking Analysis View
 
-<p align="center">
-    <img src='https://github.com/vijaya-mense/AtliQ-Hospitality-Analysis/blob/59a3ed8441898ca82f7778b73fa53b7b277cf4f3/Resources/Booking%20overview.png' width="600">
-</p>
+![Booking Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
 
 
 
