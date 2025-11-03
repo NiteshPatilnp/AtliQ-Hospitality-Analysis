@@ -6,7 +6,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWNhZDQ3OTYtMTAxNC00YjI1LWEzZjQtMjQ2MjZjNGU0ZGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ff554dd48f8d4ac7f77a)
 
-[Linkedin Post](https://tinyurl.com/5acayps3)
+[Linkedin Post](https://www.linkedin.com/posts/nitesh-patil-np_powerbi-dataanalytics-atliqhospitality-activity-7391077950583980032-jAnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERgAmwBfmZsPHT11uyoPrWe5VR6M5oJ0Mo)
 
 ## Problem statement
 
