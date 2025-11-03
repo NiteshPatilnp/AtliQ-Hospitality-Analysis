@@ -22,19 +22,22 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+## Home View
+
+![home Dashboard](https://github.com/NiteshPatilnp/AtliQ-Hospitality-Analysis/blob/main/1_Home.png)
 
 ## Performance Analysis View
 
-![Performance Overview Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
+![Performance Overview Dashboard](https://github.com/NiteshPatilnp/AtliQ-Hospitality-Analysis/blob/main/2_Performance_Overview.png)
 
 ## Revenue Analysis View
 
-![Revenue Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
+![Revenue Dashboard](https://github.com/NiteshPatilnp/AtliQ-Hospitality-Analysis/blob/main/3_Revenue_Overview.png)
 
 
 ## Booking Analysis View
 
-![Booking Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
+![Booking Dashboard](https://github.com/NiteshPatilnp/AtliQ-Hospitality-Analysis/blob/main/4_Booking_Overview.png)
 
 
 
